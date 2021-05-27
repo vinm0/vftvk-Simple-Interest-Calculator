@@ -18,3 +18,15 @@ h1 {
     margin: auto;
     align:center;
 }
+
+button {
+    background: #3477eb;
+    padding: 8px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #6596eb
+}
